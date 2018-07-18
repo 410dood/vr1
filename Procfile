@@ -1,1 +1,1 @@
-node server.js
+cd server && node server.js
